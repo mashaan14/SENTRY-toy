@@ -1,7 +1,12 @@
 # SENTRY PyTorch implementation with 2D toy example under label distribution shift (LDS)
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.13-brightgreen.svg)](https://pytorch.org/get-started/previous-versions/)
+[![torchvision](https://img.shields.io/badge/torchvision-0.14-brightgreen.svg)](https://pypi.org/project/torchvision/)
+
 Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation (SENTRY) attempts to achieve domain adaptation under label distribution shift (LDS). SENTRY was introduced in this paper:
 
-```
+```bibtex
 @InProceedings{Prabhu_2021_ICCV,
     author    = {Prabhu, Viraj and Khare, Shivam and Kartik, Deeksha and Hoffman, Judy},
     title     = {SENTRY: Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation},
