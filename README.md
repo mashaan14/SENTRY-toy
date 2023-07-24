@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-1.13-brightgreen.svg)](https://pytorch.org/get-started/previous-versions/)
 [![torchvision](https://img.shields.io/badge/torchvision-0.14-brightgreen.svg)](https://pypi.org/project/torchvision/)
 
-Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation (SENTRY) attempts to achieve domain adaptation under label distribution shift (LDS). SENTRY was introduced in this paper:
+SENTRY standsfor *S*elective *ENTR*op*Y* Optimization via Committee Consistency for Unsupervised Domain Adaptation. It attempts to achieve domain adaptation under label distribution shift (LDS). SENTRY was introduced in this paper:
 
 ```bibtex
 @InProceedings{Prabhu_2021_ICCV,
