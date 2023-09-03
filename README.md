@@ -11,7 +11,6 @@ SENTRY standsfor **S**elective **ENTR**op**Y** Optimization via Committee Consis
     author    = {Prabhu, Viraj and Khare, Shivam and Kartik, Deeksha and Hoffman, Judy},
     title     = {SENTRY: Selective Entropy Optimization via Committee Consistency for Unsupervised Domain Adaptation},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
     year      = {2021},
     pages     = {8558-8567}
 }
